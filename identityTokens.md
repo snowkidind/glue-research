@@ -1,12 +1,14 @@
-Source: cryptoslate.com
 
-Icon (ICX)
 
-k: Interconnecting blockchain network
-s: fintech, medical, educational
-w: Identity token that is passed around between entities
-i: Blockchain ID is one of the decentralized apps, or DApps, that make up the ICON network, and it provides new levels of security and identification. Members of the financial security community can use it to verify IDs in other communities. Blockchain ID works via Smart Contracts and will save time when verifying your identity to do things like get a student discount or open a bank account.
-d: https://blockonomi.com/icon-icx-guide/ https://bitcoincryptocurrency.com/icon-icx-ico/
+#Icon (ICX)
+**Interconnecting blockchain network**
+_Sector:_ fintech, medical, educational
+
+_summary:_ Identity token that is passed around between entities
+
+Blockchain ID is one of the decentralized apps, or DApps, that make up the ICON network, and it provides new levels of security and identification. Members of the financial security community can use it to verify IDs in other communities. Blockchain ID works via Smart Contracts and will save time when verifying your identity to do things like get a student discount or open a bank account.
+
+_Sources:_ https://blockonomi.com/icon-icx-guide/ https://bitcoincryptocurrency.com/icon-icx-ico/
 
 Metaverse (ETP)
 
@@ -140,3 +142,6 @@ k: Decentralized intelligent avatars
 w:
 i:
 d:
+
+Sources: 
+cryptoslate.com
