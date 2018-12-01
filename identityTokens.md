@@ -38,15 +38,15 @@ _Sources:_ http://newmetaverse.org/white-paper/Metaverse-digital-identity-white-
 
 **Identity verification via the blockchain**
 
-_Sector: _
+_Sector: reputation, payments, login, fingerprint, kyc_
 
-**basic summary**
+**We are giving businesses & individuals the tools to control and protect identities**
 
-Quotes that clarify identity purpose
+A Secured Identity For Everyone - Civic enables people to take control and protect their identity. Identity data is fully encrypted in the App on the user’s device and can be accessed with biometrics. Features public identifier for the authenticating authority, hashed identity data, and a flag indicating the data is still valid.
 
-Editorial: text that reflects my personal takeaways
+Editorial: Civic is a reputation system that uses device identification and or fingerprint identification to create multi factor identification schema.
 
-_Sources:_
+_Sources:_ https://www.civic.com/
 
 
 # Syscoin (SYS)
