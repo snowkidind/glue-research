@@ -1,6 +1,6 @@
 
 
-#Icon (ICX)
+# Icon (ICX)
 
 **Interconnecting blockchain network**
 
@@ -13,7 +13,7 @@ _description:_ Blockchain ID is one of the decentralized apps, or DApps, that ma
 _Sources:_ https://blockonomi.com/icon-icx-guide/ https://bitcoincryptocurrency.com/icon-icx-ico/
 
 
-#Metaverse (ETP)
+# Metaverse (ETP)
 
 k: Decentralized platform based on blockchain technology
 w:
