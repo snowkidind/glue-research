@@ -1,7 +1,9 @@
 
 
 #Icon (ICX)
+
 **Interconnecting blockchain network**
+
 _Sector:_ fintech, medical, educational
 
 _summary:_ Identity token that is passed around between entities
@@ -10,7 +12,8 @@ Blockchain ID is one of the decentralized apps, or DApps, that make up the ICON 
 
 _Sources:_ https://blockonomi.com/icon-icx-guide/ https://bitcoincryptocurrency.com/icon-icx-ico/
 
-Metaverse (ETP)
+
+#Metaverse (ETP)
 
 k: Decentralized platform based on blockchain technology
 w:
