@@ -4,9 +4,9 @@
 
 **Interconnecting blockchain network**
 
-_Sector:_ fintech, medical, educational
+_Sector: fintech, medical, educational_
 
-_summary:_ Identity token that is passed around between entities
+_summary:_ *Identity token that is passed around between entities, id token is used as a reference for transacting*
 
 "Blockchain ID" is one of the decentralized apps, or DApps, that make up the ICON network, and it provides new levels of security and identification. Members of the financial security community can use it to verify IDs in other communities. Blockchain ID works via Smart Contracts and will save time when verifying your identity to do things like get a student discount or open a bank account.
 
