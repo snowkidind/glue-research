@@ -17,136 +17,309 @@ _Sources:_ https://blockonomi.com/icon-icx-guide/ https://bitcoincryptocurrency.
 
 # Metaverse (ETP)
 
-k: Decentralized platform based on blockchain technology
-w:
-i:
-d:
+**Decentralized platform based on blockchain technology**
 
-Civic (CVC)
+_Sector: fintech, credit / reputation, digital rights management_
 
-k: Identity verification via the blockchain
-w:
-i:
-d:
+**Avatar is ETP's digital Identity. Asset transactions use an Oracle**
 
-Syscoin (SYS)
+The digital identity Avatar reflects the relationship between people, people and assets, and this Avatar can be linked to MST. Through the use of Avatars, anyone can become  value intermediary  Oracles,  and  Oracles  can  help  construct  an  immutable decentralized system. If  a person owns multiple digital identities and wants to open an account at Bank B, then he can indicate that he has already had an account at Bank A. End  users  will  be  able  to  use  their  digital  identity  to claim copyrights  and  other  assets.
 
-k: Business on the blockchain platform
-w:
-i:
-d:
+>A Profile contains the following information:
+>Personal transaction records
+>Asset information
+>Customized description field
 
-TheKey (TKY)
+Editorial:  I've gathered that the oracle stores this profile information which is accessible via (anything) 
 
-k: Identification verification tool
-w:
-i:
-d:
+_Sources:_ http://newmetaverse.org/white-paper/Metaverse-digital-identity-white-paper-v1.0-EN.pdf
 
-SelfKey (KEY)
+# Civic (CVC)
 
-k: Digital identity system
-w:
-i:
-d:
+**Identity verification via the blockchain**
 
-Metadium (META)
+_Sector: _
 
-k: Next generation identity protocol
-w:
-i:
-d:
+**basic summary**
 
-Vetri (VLD)
+Quotes that clarify identity purpose
 
-k: Personal data management platform
-w:
-i:
-d:
+Editorial: text that reflects my personal takeaways
 
-Remme (REM)
+_Sources:_
 
-k: Authentication DApp, powered by REMME Core network
-w:
-i:
-d:
 
-Radium (RADS)
+# Syscoin (SYS)
 
-k: Proof-of-stake based cryptocurrency
-w:
-i:
-d:
+**Business on the blockchain platform**
 
-Ink Protocol (XNK)
+_Sector: _
 
-k: Decentralizing Marketplaces & Reputation
-w:
-i:
-d:
+**basic summary**
 
-Prasm (PSM)
+Quotes that clarify identity purpose
 
-k: AI-based decentralized bioinformatic network
-w:
-i:
-d:
+Editorial: text that reflects my personal takeaways
 
-Guaranteed Ethurance Token Extra (GETX)
+_Sources:_
 
-k: Blockchain-based insurance project
-w:
-i:
-d:
 
-Bridge Protocol (TOLL)
 
-k: Secure, digital identities on the blockchain
-w:
-i:
-d:
+# TheKey (TKY)
 
-VeriME (VME)
+**Identification verification tool**
 
-k: Decentralized verification-as-a-service (VaaS) ecosystem
-w:
-i:
-d:
+_Sector: _
 
-Scriv Network (SCRIV)
+**basic summary**
 
-k: The data verification revolution
-w:
-i:
-d:
+Quotes that clarify identity purpose
 
-Biotron (BTRN)
+Editorial: text that reflects my personal takeaways
 
-k: Transparent personal data analytics platform
-w:
-i:
-d:
+_Sources:_
 
-Verify (CRED)
 
-k: Reputation protocol built on the Ethereum blockchain
-w:
-i:
-d:
 
-Blockpass (PASS)
+# SelfKey (KEY)
 
-k: A user centric self-sovereign identity portal
-w:
-i:
-d:
+**Digital identity system**
 
-Project Pai (PAI)
+_Sector: _
 
-k: Decentralized intelligent avatars
-w:
-i:
-d:
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Metadium (META)
+
+**Next generation identity protocol**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Vetri (VLD)
+
+**Personal data management platform**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Remme (REM)
+
+**Authentication DApp, powered by REMME Core network**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Radium (RADS)
+
+**Proof-of-stake based cryptocurrency**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Ink Protocol (XNK)
+
+**Decentralizing Marketplaces & Reputation**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Prasm (PSM)
+
+**AI-based decentralized bioinformatic network**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Guaranteed Ethurance Token Extra (GETX)
+
+**Blockchain-based insurance project**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Bridge Protocol (TOLL)
+
+**Secure, digital identities on the blockchain**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# VeriME (VME)
+
+**Decentralized verification-as-a-service (VaaS) ecosystem**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Scriv Network (SCRIV)
+
+**The data verification revolution**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Biotron (BTRN)
+
+**Transparent personal data analytics platform**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Verify (CRED)
+
+**Reputation protocol built on the Ethereum blockchain**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Blockpass (PASS)
+
+**A user centric self-sovereign identity portal**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
+
+# Project Pai (PAI)
+
+**Decentralized intelligent avatars**
+
+_Sector: _
+
+**basic summary**
+
+Quotes that clarify identity purpose
+
+Editorial: text that reflects my personal takeaways
+
+_Sources:_
+
+
 
 Sources: 
 cryptoslate.com
