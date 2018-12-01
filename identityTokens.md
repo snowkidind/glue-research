@@ -6,9 +6,11 @@
 
 _Sector: fintech, medical, educational_
 
-**Identity token that is passed around between entities, id token is used as a reference for transacting**
+**Identity "token" that is passed around between entities, id token is used as a reference for transacting. The Identity is issued via a smart contract.**
 
 "Blockchain ID" is one of the decentralized apps, or DApps, that make up the ICON network, and it provides new levels of security and identification. Members of the financial security community can use it to verify IDs in other communities. Blockchain ID works via Smart Contracts and will save time when verifying your identity to do things like get a student discount or open a bank account.
+
+Editorial: ICX appears to see themselves as a one stop shop for blockchain where various tokens on the platform can interact with each other through smart contracts. An Identity is achieved upon a user creating a smart contract, and then interacting with other entities on the platform. 
 
 _Sources:_ https://blockonomi.com/icon-icx-guide/ https://bitcoincryptocurrency.com/icon-icx-ico/
 
