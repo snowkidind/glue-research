@@ -5,3 +5,6 @@ Github Repo: [naivechain](https://github.com/lhartikk/naivechain)
 ## Learning Ethereum
 - [github.com/protofire/](https://github.com/protofire/blockchain-learning-path)
 - [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)
+
+## Connected Technologies
+[Vuetify](https://vuetifyjs.com/en/) SSR (server-side rendering), SPA (single page application), PWA (progressive web application) and standard HTML pages
